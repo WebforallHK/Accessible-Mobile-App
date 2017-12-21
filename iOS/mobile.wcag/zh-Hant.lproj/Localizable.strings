@@ -1,0 +1,423 @@
+/* 
+  Localizable.strings
+  mobile.wcag
+
+*/
+
+"StartBtnText" = "開始";
+"BackBtnText" = "返回";
+"MenuBtnText" = "菜單";
+"MenuClose" = "關閉菜單";
+"SkipBtnText" = "略過及開始";
+"InfoBtnText" = "更多有關本運動的資訊";
+"RegisterNowBtnText" = "立即登記";
+"RegisterBtnText" = "登記";
+"NextBtnText" = "下一步";
+"ConfirmChangeBtnText" = "確定更改";
+"MapBtnText" = "進入地圖";
+"RegisterSeminarBtnText" = "立即登記此研討會";
+"AddressBtnText" = "詳細地址";
+"ConfirmBtnText" = "確定";
+"ChangeInfoBtnText" = "更改資料";
+"HomeBtnText" = "主頁";
+"FindEventBtnText"= "找尋活動";
+
+"Web or Mobile App Accessibility Campaign" = "無障礙網頁及手機運動";
+"WelcomePage1" = "無障礙網頁／流動應用程式是確保網站的內容是提供給所有人，不只包括殘疾人士，亦包括長者，受色盲困擾的人士，及認知和身體有問題如有讀寫困難、癲癇病等的人士。無障礙網頁／流動應用程式，不但有利於更廣泛地傳遞消息，也提高了對所有用戶的普遍可用性。它還有助於建立一個關懷和包容性的社會。多年來，香港政府一直積極推廣無障礙網頁／流動應用程式，協助殘疾人士瀏覧網上資訊和服務，並提昇他們使用的滿意度。";
+"AboutPage" = "政府資訊科技總監辦公室正進行無障礙網頁／流動應用程式運動，以多管齊下策略包括以身作則積極領導、提高認知、發布指引及提示、培育專才及舉辦嘉許計劃，推動公共及私營機構在其網站及流動應用程式採用無障礙設計。";
+
+"TutorialLblText" = "按\"略過及開始\"啟動應用程序。";
+"NotShowText" = "下次不要再顯示";
+"NotShowTextns" = "下次不要再顯示 未選擇";
+"NotShowTexts" = "下次不要再顯示 選擇";
+
+"Video1Title" = "怎樣建立無障礙網頁／流動應用程式";
+"Video2Title" = "為何網頁／流動應用程式要採用無障礙設計";
+
+"WelcomeTitle" = "歡迎";
+"MenuTitle" = "菜單";
+"IntroTitle" = "有關無障礙網頁／流動應用程式運動";
+"InfoTitle" = "更多有關本運動的資訊";
+"LeadershipTitle" = "積極領導";
+"AwarenessTitle" = "提高認知";
+"TipsTitle" = "發布指引及提示";
+"VideoTitle" = "Webforall 短片頻道";
+"ExpertiseTitle" = "培育專才";
+"SeminarTitle" = "研討會和技術工作坊";
+"SeminarDetailTitle" = "研討會和技術工作坊內容";
+//"MapTitle" = "香港特別行政區政府總部";
+"AddressTitle" = "詳細地址";
+"RegisterNowTitle" = "登記";
+"RegisterSeminarTitle" = "登記";
+"ConfirmationTitle" = "確認資料";
+"RegisterSuccessTitle" = "成功登記";
+"SettingTitle" = "設定";
+"LanguageTitle" = "選擇語言";
+"FontSizeTitle" = "選擇文字大小";
+"BgmTitle" = "背景音樂";
+"PushNotiTitle" = "通知";
+"AutoUpdateTitle" = "自動更新";
+"MapTitle" = "研討會和技術工作坊內容";
+
+"Home" = "主頁";
+"About Web" = "有關無障礙網頁／流動應用程式運動";
+"Seminars" = "研討會和技術工作坊";
+"Webforall" = "Webforall 短片頻道";
+"Settings" = "設定";
+"Contact Us" = "聯絡我們";
+
+"Mar 2018" = "2018年3月";
+"Jun 2017" = "2017年6月";
+"May 2017" = "2017年5月";
+"Feb 2017" = "2017年2月";
+"Dec 2016" = "2016年12月";
+"Sep 2016" = "2016年9月";
+"May 2016" = "2016年5月";
+"Feb 2016" = "2016年2月";
+"Dec 2015" = "2015年12月";
+"Sep 2015" = "2015年9月";
+
+"Past Event"  = "昔日活動";
+"News" = "最新活動";
+
+"Auto Update:" = "自動更新:";
+"Auto Update: %@" = "自動更新: %@";
+"Auto Update: On" = "自動更新: 開";
+"Auto Update: Off" = "自動更新: 關";
+"On" = "開";
+"Off" = "關";
+
+"Seminar1" = "「建立無障礙網頁及無障礙流動應用程式」研討會";
+"Seminar2" = "無障礙網頁／流動應用程式研討會";
+"Seminar3" = "「建立無障礙網頁及無障礙流動應用程式」研討會";
+"Seminar4" = "無障礙網頁／流動應用程式研討會";
+"Seminar5" = "「建立無障礙網頁及無障礙流動應用程式」研討會";
+"Seminar6" = "無障礙網頁／流動應用程式研討會";
+"Seminar7" = "無障礙流動應用程式範本簡介會－資訊科技從業員";
+"Seminar8" = "無障礙流動應用程式範本簡介會－資訊科技從業員";
+"Seminar9" = "無障礙流動應用程式範本簡介會－資訊科技從業員";
+"Seminar10" = "無障礙流動應用程式範本簡介會－資訊科技從業員";
+"Seminar11" = "無障礙網頁／流動應用程式研討會";
+"Seminar12" = "「建立無障礙網頁及無障礙流動應用程式」研討會";
+"Seminar13" = "資訊科技從業員的經驗分享工作坊";
+"Seminar14" = "無障礙網頁／流動應用程式研討會";
+"Seminar15" = "無障礙網頁研討會－中小企業";
+"Seminar16" = "大專院校學生的無障礙網頁講座";
+"Seminar17" = "資訊科技從業員的經驗分享工作坊";
+"Seminar18" = "無障礙網頁研討會－金融、新聞和媒體業界";
+"Seminar19" = "無障礙網頁／流動應用程式研討會";
+"Seminar20" = "無障礙網頁研討會－特殊學校";
+"Seminar21" = "「建立無障礙網頁及無障礙流動應用程式」研討會";
+"Seminar22" = "電子學習研討會";
+"Seminar23" = "資訊科技從業員的經驗分享工作坊";
+"Seminar24" = "無障礙網頁／流動應用程式研討會";
+"Seminar25" = "「無障礙流動應用程式」研討會";
+"Seminar26" = "資訊科技從業員的經驗分享工作坊";
+"Seminar27" = "「建立無障礙網頁及無障礙流動應用程式」研討會";
+"Seminar28" = "無障礙網頁／流動應用程式研討會";
+"Seminar29" = "無障礙網頁研討會－社會福利界";
+"Seminar30" = "資訊科技從業員的經驗分享工作坊";
+"Seminar31" = "無障礙網頁研討會";
+"Seminar32" = "資訊科技從業員的經驗分享工作坊";
+"Seminar33" = "無障礙網頁研討會";
+"Seminar34" = "無障礙網頁研討會";
+"Seminar35" = "無障礙網頁研討會";
+"Seminar36" = "無障礙網頁研討會";
+
+"Venue1" = "香港灣仔港灣道十二號灣仔政府大樓十五樓會議室";
+"Venue2" = "香港添馬添美道二號政府總部演講廳";
+"Venue3" = "香港灣仔港灣道十二號灣仔政府大樓十五樓會議室";
+"Venue4" = "香港添馬添美道二號政府總部演講廳";
+"Venue5" = "香港灣仔港灣道十二號灣仔政府大樓十五樓會議室";
+"Venue6" = "香港添馬添美道二號政府總部演講廳";
+"Venue7" = "香港添馬添美道二號政府總部地下六號會議室";
+"Venue8" = "香港添馬添美道二號政府總部地下五號會議室";
+"Venue9" = "香港數碼港道一百號數碼港三座F區三樓演講室";
+"Venue10" = "香港添馬添美道二號政府總部地下一號會議室";
+"Venue11" = "香港添馬添美道二號政府總部演講廳";
+"Venue12" = "香港灣仔港灣道十二號灣仔政府大樓十五樓會議室";
+"Venue13" = "香港灣仔港灣道十二號灣仔政府大樓十五樓會議室";
+"Venue14" = "香港添馬添美道二號政府總部演講廳";
+"Venue15" = "香港添馬添美道二號政府總部地下四號會議室";
+"Venue16" = "香港銅鑼灣高士威道六十六號香港中央圖書館演講廳";
+"Venue17" = "香港灣仔港灣道十二號灣仔政府大樓十五樓會議室";
+"Venue18" = "九龍塘達之路七十八號香港生產力大樓四樓會議廳";
+"Venue19" = "香港添馬添美道二號政府總部演講廳";
+"Venue20" = "香港灣仔皇后大道東二百一十三號胡忠大廈十九樓會議室";
+"Venue21" = "香港灣仔港灣道十二號灣仔政府大樓十五樓會議室";
+"Venue22" = "香港灣仔皇后大道東二百一十三號胡忠大廈十九樓會議室";
+"Venue23" = "香港灣仔港灣道十二號灣仔政府大樓十五樓會議室";
+"Venue24" = "香港添馬添美道二號政府總部演講廳";
+"Venue25" = "香港添馬添美道二號政府總部演講廳";
+"Venue26" = "香港灣仔港灣道十二號灣仔政府大樓十五樓會議室";
+"Venue27" = "香港添馬添美道二號政府總部演講廳";
+"Venue28" = "香港添馬添美道二號政府總部演講廳";
+"Venue29" = "灣仔軒尼詩道十五號溫莎公爵社會服務大廈一樓大禮堂";
+"Venue30" = "香港灣仔港灣道十二號灣仔政府大樓十五樓會議室";
+"Venue31" = "香港添馬添美道二號政府總部演講廳";
+"Venue32" = "香港灣仔港灣道十二號灣仔政府大樓十五樓會議室";
+"Venue33" = "香港添馬添美道二號政府總部演講廳";
+"Venue34" = "香港添馬添美道二號政府總部演講廳";
+"Venue35" = "香港添馬添美道二號政府總部演講廳";
+"Venue36" = "香港添馬添美道二號政府總部演講廳";
+
+"Detail1" = "與網頁及流動應用程式擁有者及開發人員，分享網頁及流動應用程式的無障礙基本概念及良好作業模式";
+"Detail2" = "幫助企業和機構了解無障礙網頁和的流動應用程式重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站和流動應用程式。";
+"Detail3" = "與網頁及流動應用程式擁有者及開發人員，分享網頁及流動應用程式的無障礙基本概念及良好作業模式";
+"Detail4" = " 幫助企業和機構了解無障礙網頁和的流動應用程式重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站和流動應用程式。";
+"Detail5" = "與網頁及流動應用程式擁有者及開發人員，分享網頁及流動應用程式的無障礙基本概念及良好作業模式";
+"Detail6" = "幫助企業和機構了解無障礙網頁和的流動應用程式重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站和流動應用程式。";
+"Detail7" = "幫助資訊科技從業員了解制作無障礙流動應用程式的相關技術。";
+"Detail8" = "幫助資訊科技從業員了解制作無障礙流動應用程式的相關技術。";
+"Detail9" = "幫助資訊科技從業員了解制作無障礙流動應用程式的相關技術。";
+"Detail10" = "幫助資訊科技從業員了解制作無障礙流動應用程式的相關技術。";
+"Detail11" = "幫助企業和機構了解無障礙網頁和的流動應用程式重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站和流動應用程式。";
+"Detail12" = "與網頁及流動應用程式擁有者及開發人員，分享網頁及流動應用程式的無障礙基本概念及良好作業模式";
+"Detail13" = "與資訊科技從業員分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站及流動應用程式。";
+"Detail14" = "幫助企業和機構了解無障礙網頁和的流動應用程式重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站和流動應用程式。";
+"Detail15" = "幫助中小企業了解無障礙網頁的重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站。";
+"Detail16" = "幫助大專院校學生了解無障礙網頁的重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站。";
+"Detail17" = "與資訊科技從業員分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站及流動應用程式。";
+"Detail18" = "幫助金融、新聞和媒體業界了解無障礙網頁的重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站。";
+"Detail19" = "幫助企業和機構了解無障礙網頁和的流動應用程式重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站和流動應用程式。";
+"Detail20" = "幫助特殊學校了解無障礙網頁的重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站。";
+"Detail21" = "與網頁及流動應用程式擁有者及開發人員，分享網頁及流動應用程式的無障礙基本概念及良好作業模式";
+"Detail22" = "幫助學校了解無障礙設計的重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙電子學習教材。";
+"Detail23" = "與資訊科技從業員分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站及流動應用程式。";
+"Detail24" = "幫助企業和機構了解無障礙網頁和的流動應用程式重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站和流動應用程式。";
+"Detail25" = "與流動應用程式擁有者及開發人員，分享流動應用程式的無障礙基本概念及良好作業模式";
+"Detail26" = "與資訊科技從業員分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站及流動應用程式。";
+"Detail27" = "與網頁及流動應用程式擁有者及開發人員，分享網頁及流動應用程式的無障礙基本概念及良好作業模式";
+"Detail28" = "幫助企業和機構了解無障礙網頁和的流動應用程式重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站和流動應用程式。";
+"Detail29" = "幫助社會福利界了解無障礙網頁的重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站。";
+"Detail30" = "與資訊科技從業員分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站及流動應用程式。";
+"Detail31" = "幫助企業和機構了解無障礙網頁的重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站。";
+"Detail32" = "與資訊科技從業員分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站及流動應用程式。";
+"Detail33" = "幫助企業和機構了解無障礙網頁的重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站。";
+"Detail34" = "幫助企業和機構了解無障礙網頁的重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站。";
+"Detail35" = "幫助企業和機構了解無障礙網頁的重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站。";
+"Detail36" = "幫助企業和機構了解無障礙網頁的重要性，分享無障礙設計的良好作業模式和相關技術，以協助他們制作無障礙網站。";
+
+"[Past Event]" = "[昔日活動]";
+"GovOffice" = "中西區金鐘\r\n添馬添美道2號\r\n香港特別行政區政府總部 ";
+
+"Seminar1Detail" = "有關無障礙流動應用程式範本簡介會－資訊科技從業員";
+
+"Seminar:" = "主題：";
+"Date:" = "日期：";
+"Time:" = "時間：";
+"Venue:" = "地點：";
+"Details:" = "詳細資料：";
+"Address for the Seminar:" = "研討會詳細地址：";
+
+"Please choose the start and end date of your available period:" = "請選擇時段：";
+"Start Date:" = "開始日期：";
+"End Date:" = "結束日期：";
+"You would like to register for the following seminar:" = "你希望登記參加以下的研討會：";
+
+"Mandatory fields are indicated with an asterisk (*)." = "星號（*）表示的項目必須填寫。";
+"Mandatory fields are indicated with a red asterisk (*)." = "紅色及以星號（*）表示的項目必須填寫。";
+"* First Name" = "* 名字 (例：小明)";
+"Input your First Name" = "輸入你的名字";
+"* Last Name" = "* 姓氏 (例：陳)";
+"Input your Last Name" = "輸入你的姓氏";
+"AddressLabel" = "地址";
+"Input your Address" = "輸入你的地址";
+"* District" = "* 地區";
+"Choose a District" ="選擇你屋往的區域";
+"* Phone" = "* 電話號碼 (需為8位數字，例：90000000)";
+"Input an 8-digit Phone Number (00000000)" = "電話號碼 (需為8位數字，例：90000000)";
+"Remain Time: %d mins %d secs" = "限時：%d 分 %d 秒";
+"firstNameInput" = "名字";
+"lastNameInput" = "姓氏";
+"addressInput" = "地址";
+"phoneInput" = "電話號碼";
+
+"Central and Western" = "中西區";
+"Eastern" = "東區";
+"Southern" = "南區";
+"Wan Chai" = "灣仔區";
+"Sham Shui Po" = "深水埗區";
+"Kowloon City" = "九龍城區";
+"Kwun Tong" = "觀塘區";
+"Wong Tai Sin" = "黃大仙區";
+"Yau Tsim Mong" = "油尖旺區";
+"Islands" = "離島區";
+"Kwai Tsing" = "葵青區";
+"North" = "北區";
+"Sai Kung" = "西貢區";
+"Sha Tin" = "沙田區";
+"Tai Po" = "大埔區";
+"Tsuen Wan" = "荃灣區";
+"Tuen Mun" = "屯門區";
+"Yuen Long" = "元朗區";
+
+"CLOSE" = "取消";
+"RESET" = "重新填寫";
+"EXTEND TIME LIMIT" = "延長時限";
+"Confirm" = "確定";
+"Change Information" = "更改資料";
+"Please confirm your information:" = "請確定你的資料：";
+"First Name" = "名字";
+"Last Name" = "姓氏";
+"Address" = "地址";
+"District" = "地區";
+"Phone" = "電話號碼";
+
+"Please input your first name." = "請輸入你的名稱。";
+"Please input your last name." = "請輸入你的姓氏。";
+"Please choose the district you live." = "請選擇你屋往的區域。";
+"Please input 8 digits phone number." = "請輸入8位數字的電話號碼。";
+"Phone number should be numeric." = "電話數碼應為數字。";
+"Times up! Please submit your form." = "限時已到！請提交表格。";
+"Please choose your available date (from)." = "請選擇可出席日期 (從)。";
+"Please choose your available date (to)." = "請選擇可出席日期 (到)。";
+"Users are not allowed to select dates earlier than the From date." = "你不可以選擇比開始日期早的結束日期。";
+
+"You have been register in the following seminar:" = "你己登記參加以下的研討會：";
+"successDesc" ="謝謝閣下登記參加我們的研討會，如果有新的研討會於下列時段舉辦，我們將聯絡閣下。";
+"Start Date:" = "開始日期：";
+"End Date:" = "結束日期：";
+
+
+"Language" = "語言";
+"Font Size" = "文字大小";
+"Background Music" = "背景音樂";
+"Push Notification" = "通知";
+"Auto Update" = "自動更新";
+
+"Pause?" = "你是否希望停止自動更新？";
+"Resume?" = "你是否希望啟動自動更新？";
+"Cancel" = "取消";
+
+"Small" = "小";
+"Medium" = "中";
+"Large" = "大";
+
+"Ringtone" = "鈴聲";
+"Vibration" = "振動";
+
+"January" = "一月";
+"February" = "二月";
+"March" = "三月";
+"April" = "四月";
+"May" = "五月";
+"June" = "六月";
+"July" = "七月";
+"August" = "八月";
+"September" = "九月";
+"October" = "十月";
+"November" = "十一月";
+"December" = "十二月";
+
+"SUN" = "日";
+"MON" = "一";
+"TUE" = "二";
+"WED" = "三";
+"THU" = "四";
+"FRI" = "五";
+"SAT" = "六";
+
+"Webforall_Banner" = "tc/Webforall_Banner.png";
+"label_news" = "tc/label_news";
+
+"rewind" = "回放";
+"play" = "播放";
+"pause" = "暫停";
+"fastforward" = "快進";
+"enlarge" = "影片全屏按鈕";
+"shrink" = "影片離開全屏按鈕";
+
+"landing" = "landing_1.png";
+
+"tab1" = "有關無障礙網頁／流動應用程式運動";
+"tab2" = "研討會和技術工作坊";
+"tab3" = "Webforall 短片頻道";
+"tab4" = "設定";
+"tab5" = "聯絡我們";
+
+"tab1s" = "有關無障礙網頁／流動應用程式運動";
+"tab2s" = "研討會和技術工作坊";
+"tab3s" = "Webforall 短片頻道";
+"tab4s" = "設定";
+"tab5s" = "聯絡我們";
+
+"tabimg1" = "nav_about_1";
+"tabimg2" = "nav_seminars_1";
+"tabimg3" = "nav_video_1";
+"tabimg4" = "nav_setting_1";
+"tabimg5" = "nav_contact_1";
+"tabimg1s" = "nav_about_o_1";
+"tabimg2s" = "nav_seminars_o_1";
+"tabimg3s" = "nav_video_o_1";
+"tabimg4s" = "nav_setting_o_1";
+"tabimg5s" = "nav_contact_o_1";
+
+"versionAlert" = "本流動應用程式支援 iOS 8.0 至11.0, 你的裝置可能未能兼容本程式的部份功能。";
+"va1" = "了解";
+"va2" = "離開";
+
+"SeminarBanner_1" = "tc/Seminarbanner_1";
+"SeminarBanner_2" = "tc/Seminarbanner_2";
+"SeminarBanner_3" = "tc/Seminarbanner_3";
+
+"iPadSI9" = "tc/landing_ipad";
+"iPadSI10" = "tc/landing_ipad";
+"iPadSI12" = "tc/landing_ipad";
+
+"s1a" = "English";
+"s1b" = "繁體中文";
+"s1c" = "簡體中文";
+"s1as" = "已選取-English";
+"s1bs" = "已選取-繁體中文";
+"s1cs" = "已選取-簡體中文";
+
+"s2a" = "小字體";
+"s2b" = "中字體";
+"s2c" = "大字體";
+"s2as" = "已選取-小字體";
+"s2bs" = "已選取-中字體";
+"s2cs" = "已選取-大字體";
+
+"s3on" = "背景音樂 開";
+"s3off" = "背景音樂 關";
+"s3ons" = "已選取-背景音樂 開";
+"s3offs" = "已選取-背景音樂 關";
+
+"s4aon" = "鈴聲 開";
+"s4aoff" = "鈴聲 關";
+"s4aons" = "已選取-鈴聲 開";
+"s4aoffs" = "已選取-鈴聲 關";
+"s4bon" = "振動 開";
+"s4boff" = "振動 關";
+"s4bons" = "已選取-振動 開";
+"s4boffs" = "已選取-振動 關";
+
+"s5on" = "自動更新 開";
+"s5off" = "自動更新 關";
+"s5ons" = "已選取-自動更新 開";
+"s5offs" = "已選取-自動更新 關";
+
+"autoUpdateOn" = "開啟自動更新";
+"autoUpdateOff" = "關閉自動更新";
+
+"bgmOn" = "開啟背景音樂";
+"bgmOff" = "關閉背景音樂";
+
+"ringtoneOn" = "開啟鈴聲通知";
+"ringtoneOff" = "關閉鈴聲通知";
+
+"vibrateOn" = "開啟振動音樂";
+"vibrateOff" = "關閉振動音樂";
+
+"autoUpdateOns" = "已選取-開啟自動更新";
+"autoUpdateOffs" = "已選取-關閉自動更新";
+
+"bgmOns" = "已選取-開啟背景音樂";
+"bgmOffs" = "已選取-關閉背景音樂";
+
+"ringtoneOns" = "已選取-開啟鈴聲通知";
+"ringtoneOffs" = "已選取-關閉鈴聲通知";
+
+"vibrateOns" = "已選取-開啟振動音樂";
+"vibrateOffs" = "已選取-關閉振動音樂";

@@ -1,0 +1,416 @@
+/* 
+  Localizable.strings
+  mobile.wcag
+
+*/
+
+"StartBtnText" = "Start";
+"BackBtnText" =  "Back";
+"MenuBtnText" = "Menu";
+"MenuClose" = "Close Menu";
+"SkipBtnText" = "Skip and Start";
+"InfoBtnText" = "More Information about the Campaign";
+"RegisterNowBtnText" = "Register Now";
+"RegisterBtnText" = "Register";
+"NextBtnText" = "Next";
+"ConfirmChangeBtnText" = "Confirm Change";
+"MapBtnText" = "Go to Map";
+"RegisterSeminarBtnText" = "Register This Seminar Now";
+"AddressBtnText" = "Address";
+"ConfirmBtnText" = "Confirm";
+"ChangeInfoBtnText" = "Change Information";
+"HomeBtnText" = "Home";
+"FindEventBtnText"= "Find Event";
+
+"Web or Mobile App Accessibility Campaign" = "Web or Mobile App Accessibility Campaign";
+"WelcomePage1" = "Web/Mobile App Accessibility is to make sure that the contents of websites and mobile applications are available for all, including not only persons with disabilities but also persons with specific difficulties such as the elderly and persons beset with colour-blindness, cognitive and physical issues such as dyslexia, epilepsy, etc. An accessible website or mobile application not only helps deliver messages wider across, but also improves the general usability for all users. It also helps building a caring and inclusive society. Over the years, the Government has been actively promoting web/mobile app accessibility to facilitate persons with disabilities to access online information and services and enhance their user experience.";
+"AboutPage" = "The Office of the Government Chief Information Officer (OGCIO) is mounting a Web/Mobile App Accessibility Campaign and adopts a multi-pronged strategy to drive the adoption of accessible design in websites and mobile applications of both public and private sectors through Government Leadership, Fostering Awareness, Promulgating Guidelines and Tips and Nurturing Expertise and Organising Recognition Scheme.";
+
+"TutorialLblText" = "Click \"Skip and Start\" to start up the App.";
+
+"NotShowText" = "Not show the tutorial next time";
+"NotShowTextns" = "Not show the tutorial next time Not selected";
+"NotShowTexts" = "Not show the tutorial next time Selected";
+
+"Video1Title" = "How to Build Web Accessibility Website / Mobile App";
+"Video2Title" = "Why Web Accessibility Website / Mobile App are Necessary";
+
+"WelcomeTitle" = "Welcome";
+"MenuTitle" = "Menu";
+"IntroTitle" = "About Web/Mobile App Accessibility Campaign";
+"InfoTitle" = "More Information about the Campaign";
+"LeadershipTitle" = "Government Leadership";
+"AwarenessTitle" = "Fostering Awareness";
+"TipsTitle" = "Promulgating Guidelines and Tips";
+"VideoTitle" = "Webforall Video Channel";
+"ExpertiseTitle" = "Nurturing Expertise";
+"SeminarTitle" = "Seminars and Technical Workshops";
+"SeminarDetailTitle" = "Seminar and Technical Workshop Details";
+//"MapTitle" = "Central Government Office";
+"AddressTitle" = "Address";
+"RegisterNowTitle" = "Register";
+"RegisterSeminarTitle" = "Register";
+"ConfirmationTitle" = "Confirmation";
+"RegisterSuccessTitle" = "Register Success";
+"SettingTitle" = "Settings";
+"LanguageTitle" = "Choose a language";
+"FontSizeTitle" = "Choose Font Size";
+"BgmTitle" = "Background Music";
+"PushNotiTitle" = "Push Notification";
+"AutoUpdateTitle" = "Auto Update";
+"MapTitle" = "Seminar and Technical Workshop Details";
+
+"Home" = "Home";
+"About Web" = "About Web/Mobile App Accessibility Campaign";
+"Seminars" = "Seminars and Technical Workshops";
+"Webforall" = "Webforall Video Channel";
+"Settings" = "Settings";
+"Contact Us" = "Contact Us";
+
+"Mar 2018" = "Mar 2018";
+"Jun 2017" = "Jun 2017";
+"May 2017" = "May 2017";
+"Feb 2017" = "Feb 2017";
+"Dec 2016" = "Dec 2016";
+"Sep 2016" = "Sep 2016";
+"May 2016" = "May 2016";
+"Feb 2016" = "Feb 2016";
+"Dec 2015" = "Dec 2015";
+"Sep 2015" = "Sep 2015";
+
+"Past Event"  = "Past Event";
+"News" = "New";
+
+"Auto Update:" = "Auto Update:";
+"Auto Update: %@" = "Auto Update: %@";
+"Auto Update: On" = "Auto Update: On";
+"Auto Update: Off" = "uto Update: Off";
+"On" = "On";
+"Off" = "Off";
+
+"Seminar1" = "Seminar on Building Accessible Webpages and Accessible Mobile Applications";
+"Seminar2" = "Seminar on Web/Mobile App Accessibility";
+"Seminar3" = "Seminar on Building Accessible Webpages and Accessible Mobile Applications";
+"Seminar4" = "Seminar on Web/Mobile App Accessibility";
+"Seminar5" = "Seminar on Building Accessible Webpages and Accessible Mobile Applications";
+"Seminar6" = "Seminar on Web/Mobile App Accessibility";
+"Seminar7" = "Briefing Session on Accessible Mobile App Templates for IT Practitioners";
+"Seminar8" = "Briefing Session on Accessible Mobile App Templates for IT Practitioners";
+"Seminar9" = "Briefing Session on Accessible Mobile App Templates for IT Practitioners";
+"Seminar10" = "Briefing Session on Accessible Mobile App Templates for IT Practitioners";
+"Seminar11" = "Seminar on Web/Mobile App Accessibility";
+"Seminar12" = "Seminar on Building Accessible Webpages and Accessible Mobile Applications";
+"Seminar13" = "Experience Sharing Workshops for IT Practitioners";
+"Seminar14" = "Seminar on Web/Mobile App Accessibility";
+"Seminar15" = "Seminar on Web Accessibility for SME";
+"Seminar16" = "Seminar on Web Accessibility for Tertiary Students";
+"Seminar17" = "Experience Sharing Workshops for IT Practitioners";
+"Seminar18" = "Seminar on Web Accessibility for Finance and News & Media";
+"Seminar19" = "Seminar on Web/Mobile App Accessibility";
+"Seminar20" = "Seminar on Web Accessibility for Special Schools";
+"Seminar21" = "Seminar on Building Accessible Webpages and Accessible Mobile Applications";
+"Seminar22" = "Seminar on Inclusive e-Learning";
+"Seminar23" = "Experience Sharing Workshops for IT Practitioners";
+"Seminar24" = "Seminar on Web/Mobile App Accessibility";
+"Seminar25" = "Seminar on Mobile App Accessibility";
+"Seminar26" = "Experience Sharing Workshops for IT Practitioners";
+"Seminar27" = "Seminar on Building Accessible Webpages and Accessible Mobile Applications";
+"Seminar28" = "Seminar on Web/Mobile App Accessibility";
+"Seminar29" = "Seminar on Web Accessibility for the Social Welfare Sector";
+"Seminar30" = "Experience Sharing Workshops for IT Practitioners";
+"Seminar31" = "Seminar on Web Accessibility";
+"Seminar32" = "Experience Sharing Workshops for IT Practitioners";
+"Seminar33" = "Seminar on Web Accessibility";
+"Seminar34" = "Seminar on Web Accessibility";
+"Seminar35" = "Seminar on Web Accessibility";
+"Seminar36" = "Seminar on Web Accessibility";
+
+"Venue1" = "Conference Room, 15/F, Wanchai Tower, 12 Harbour Road, Wan Chai, Hong Kong";
+"Venue2" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue3" = "Conference Room, 15/F, Wanchai Tower, 12 Harbour Road, Wan Chai, Hong Kong";
+"Venue4" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue5" = "Conference Room, 15/F, Wanchai Tower, 12 Harbour Road, Wan Chai, Hong Kong";
+"Venue6" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue7" = "Conference Room 6, Ground Floor, Central Government Offices, 2 Tim Mei Avenue, Tamar";
+"Venue8" = "Conference Room 5, Ground Floor, Central Government Offices, 2 Tim Mei Avenue, Tamar";
+"Venue9" = "Training Rooms, 3/F, Core F, Cyberport 3, 100 Cyberport Road, Hong Kong";
+"Venue10" = "Conference Room 1, Ground Floor, Central Government Offices, 2 Tim Mei Avenue, Tamar";
+"Venue11" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue12" = "Conference Room, 15/F, Wanchai Tower, 12 Harbour Road, Wan Chai, Hong Kong";
+"Venue13" = "Conference Room, 15/F, Wanchai Tower, 12 Harbour Road, Wan Chai, Hong Kong";
+"Venue14" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue15" = "Conference Room 4, Ground Floor, Central Government Offices, 2 Tim Mei Avenue, Tamar";
+"Venue16" = "Lecture Theatre, Hong Kong Central Library, 66 Causeway Road, Causeway Bay, Hong Kong";
+"Venue17" = "Conference Room, 15/F, Wanchai Tower, 12 Harbour Road, Wan Chai, Hong Kong";
+"Venue18" = "Conference Hall, 4/F, HKPC Building, 78 Tat Chee Avenue, Kowloon Tong";
+"Venue19" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue20" = "Conference Room, 19/F, Wu Chung House, 213 Queen's Road East, Wan Chai, Hong Kong";
+"Venue21" = "Conference Room, 15/F, Wanchai Tower, 12 Harbour Road, Wan Chai, Hong Kong";
+"Venue22" = "Conference Room, 19/F, Wu Chung House, 213 Queen's Road East, Wan Chai, Hong Kong";
+"Venue23" = "Conference Room, 15/F, Wanchai Tower, 12 Harbour Road, Wan Chai, Hong Kong";
+"Venue24" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue25" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue26" = "Conference Room, 15/F, Wanchai Tower, 12 Harbour Road, Wan Chai, Hong Kong";
+"Venue27" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue28" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue29" = "1/F, Auditorium, Duke of Windsor Social Service Building, 15 Hennessy Rd., Wan Chai, Hong Kong.";
+"Venue30" = "Conference Room, 15/F, Wanchai Tower, 12 Harbour Road, Wan Chai, Hong Kong";
+"Venue31" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue32" = "Conference Room, 15/F, Wanchai Tower, 12 Harbour Road, Wan Chai, Hong Kong";
+"Venue33" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue34" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue35" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+"Venue36" = "Auditorium, Central Government Offices, 2 Tim Mei Avenue, Tamar, Hong Kong";
+
+"Detail1" = "To share the best practice and related skills on web/mobile app accessibility design with web/mobile app owners and developers.";
+"Detail2" = "To help corporations and organisations better understand the importance of web/mobile app accessibility, share best practices and related skills for making their websites and mobile apps accessible.";
+"Detail3" = "To share the best practice and related skills on web/mobile app accessibility design with web/mobile app owners and developers.";
+"Detail4" = "To help corporations and organisations better understand the importance of web/mobile app accessibility, share best practices and related skills for making their websites and mobile apps accessible.";
+"Detail5" = "To share the best practice and related skills on web/mobile app accessibility design with web/mobile app owners and developers.";
+"Detail6" = "To help corporations and organisations better understand the importance of web/mobile app accessibility, share best practices and related skills for making their websites and mobile apps accessible.";
+"Detail7" = "To help IT practitioners better understand the skills for making their mobile applications accessible.";
+"Detail8" = "To help IT practitioners better understand the skills for making their mobile applications accessible.";
+"Detail9" = "To help IT practitioners better understand the skills for making their mobile applications accessible.";
+"Detail10" = "To help IT practitioners better understand the skills for making their mobile applications accessible.";
+"Detail11" = "To help corporations and organisations better understand the importance of web/mobile app accessibility, share best practices and related skills for making their websites and mobile apps accessible.";
+"Detail12" = "To share the best practice and related skills on web/mobile app accessibility design with web/mobile app owners and developers.";
+"Detail13" = "Share best practices and related skills with IT practitioners for making their mobile applications and websites accessible.";
+"Detail14" = "To help corporations and organisations better understand the importance of web/mobile app accessibility, share best practices and related skills for making their websites and mobile apps accessible.";
+"Detail15" = "To help SME better understand the importance of web accessibility, share best practices and related skills for making their websites accessible.";
+"Detail16" = "To help tertiary students better understand the importance of web accessibility, share best practices and related skills for making their websites accessible.";
+"Detail17" = "Share best practices and related skills with IT practitioners for making their mobile applications and websites accessible.";
+"Detail18" = "To help finance and news & media sectors better understand the importance of web accessibility, share best practices and related skills for making their websites accessible.";
+"Detail19" = "To help corporations and organisations better understand the importance of web/mobile app accessibility, share best practices and related skills for making their websites and mobile apps accessible.";
+"Detail20" = "To help special schools better understand the importance of web accessibility, share best practices and related skills for making their websites accessible.";
+"Detail21" = "To share the best practice and related skills on web/mobile app accessibility design with web/mobile app owners and developers.";
+"Detail22" = "To help schools better understand the importance of accessibility design, share best practices and related skills for making their e-learning materials accessible.";
+"Detail23" = "Share best practices and related skills with IT practitioners for making their mobile applications and websites accessible.";
+"Detail24" = "To help corporations and organisations better understand the importance of web/mobile app accessibility, share best practices and related skills for making their websites and mobile apps accessible.";
+"Detail25" = "To share the best practice and related skills on mobile app accessibility design with mobile app owners and app developers.";
+"Detail26" = "Share best practices and related skills with IT practitioners for making their mobile applications and websites accessible.";
+"Detail27" = "To share the best practice and related skills on web/mobile app accessibility design with web/mobile app owners and developers.";
+"Detail28" = "To help corporations and organisations better understand the importance of web/mobile app accessibility, share best practices and related skills for making their websites and mobile apps accessible.";
+"Detail29" = "To help the social welfare sector better understand the importance of web accessibility, share best practices and related skills for making their websites accessible.";
+"Detail30" = "Share best practices and related skills with IT practitioners for making their mobile applications and websites accessible.";
+"Detail31" = "To help corporations and organisations better understand the importance of web accessibility, share best practices and related skills for making their websites accessible.";
+"Detail32" = "Share best practices and related skills with IT practitioners for making their mobile applications and websites accessible.";
+"Detail33" = "To help corporations and organisations better understand the importance of web accessibility, share best practices and related skills for making their websites accessible.";
+"Detail34" = "To help corporations and organisations better understand the importance of web accessibility, share best practices and related skills for making their websites accessible.";
+"Detail35" = "To help corporations and organisations better understand the importance of web accessibility, share best practices and related skills for making their websites accessible.";
+"Detail36" = "To help corporations and organisations better understand the importance of web accessibility, share best practices and related skills for making their websites accessible.";
+
+"[Past Event]" = "[Past Event]";
+
+"GovOffice" = "Room 100, West Wing,\r\nCentral Government Office\r\n2 Tim Mei Avenue\r\n";
+
+"Seminar1Detail" = "About Accessible Mobile App Templates  for IT Practitioners";
+
+"Seminar:" = "Topic:";
+"Date:" = "Date:";
+"Time:" = "Time:";
+"Venue:" = "Venue:";
+"Details:" = "Details:";
+"Address for the Seminar:" = "Address for the Seminar:";
+
+"Please choose the start and end date of your available period:" = "Please choose the start and end date of your available period:";
+"Start Date:" = "Start Date:";
+"End Date:" = "End Date:";
+"You would like to register for the following seminar:" = "You would like to register for the following seminar:";
+
+"Mandatory fields are indicated with an asterisk (*)." = "Mandatory fields are indicated with an asterisk (*).";
+"Mandatory fields are indicated with a red asterisk (*)." = "Mandatory fields are indicated with a red asterisk (*).";
+"* First Name" = "* First Name (Example: Siu Ming)";
+"Input your First Name" = "Input your First Name";
+"* Last Name" = "* Last Name (Example: Chan)";
+"Input your Last Name" = "Input your Last Name";
+"AddressLabel" = "Address";
+"Input your Address" = "Input your Address";
+"* District" = "* District";
+"Choose a District" ="Choose a District";
+"* Phone" = "* Phone (Should be an 8-digit Phone. Example: 90000000)";
+"Input an 8-digit Phone Number (00000000)" = "Phone (Should be an 8-digit Phone. Example: 90000000)";
+"Remain Time: %d mins %d secs" = "Remain Time: %d mins %d secs";
+"firstNameInput" = "First Name";
+"lastNameInput" = "Last Name";
+"addressInput" = "Address";
+"phoneInput" = "Phone";
+
+"Central and Western" = "Central and Western";
+"Eastern" = "Eastern";
+"Southern" = "Southern";
+"Wan Chai" = "Wan Chai";
+"Sham Shui Po" = "Sham Shui Po";
+"Kowloon City" = "Kowloon City";
+"Kwun Tong" = "Kwun Tong";
+"Wong Tai Sin" = "Wong Tai Sin";
+"Yau Tsim Mong" = "Yau Tsim Mong";
+"Islands" = "Islands";
+"Kwai Tsing" = "Kwai Tsing";
+"North" = "North";
+"Sai Kung" = "Sai Kung";
+"Sha Tin" = "Sha Tin";
+"Tai Po" = "Tai Po";
+"Tsuen Wan" = "Tsuen Wan";
+"Tuen Mun" = "Tuen Mun";
+"Yuen Long" = "Yuen Long";
+
+"Please input your first name." = "Please input your first name.";
+"Please input your last name." = "Please input your last name.";
+"Please choose the district you live." = "Please choose the district you live.";
+"Please input 8 digits phone number." = "Please input 8 digits phone number.";
+"Phone number should be numeric." = "Phone number should be numeric.";
+"Times up! Please submit your form." = "Times up! Please submit your form.";
+"Please choose your available date (from)." = "Please choose your available date (from).";
+"Please choose your available date (to)." = "Please choose your available date (to).";
+"Users are not allowed to select dates earlier than the From date." = "Users are not allowed to select an End Date earlier than the Start Date.";
+"EXTEND TIME LIMIT" = "Extend time limit";
+"CLOSE" = "Cancel";
+"RESET" = "Reset";
+
+"successDesc" = "Thanks for your registration. We’ll contact you directly if we have new seminar on the following date period:";
+"You have been register in the following seminar:" = "You have been register in the following seminar:";
+
+"Language" = "Language";
+"Font Size" = "Font Size";
+"Background Music" = "Background Music";
+"Push Notification" = "Push Notification";
+"Auto Update" = "Auto Update";
+
+"Pause?" = "Would you like to stop auto update?";
+"Resume?" = "Would you like to start auto update?";
+
+"Small" = "Small";
+"Medium" = "Medium";
+"Large" = "Large";
+
+"Ringtone" = "Ringtone";
+"Vibration" = "Vibration";
+
+"January" = "January";
+"February" = "February";
+"March" = "March";
+"April" = "April";
+"May" = "May";
+"June" = "June";
+"July" = "July";
+"August" = "August";
+"September" = "September";
+"October" = "October";
+"November" = "November";
+"December" = "December";
+
+"SUN" = "SUN";
+"MON" = "MON";
+"TUE" = "TUE";
+"WED" = "WED";
+"THU" = "THU";
+"FRI" = "FRI";
+"SAT" = "SAT";
+
+"Webforall_Banner" = "Webforall_Banner.png";
+"label_news" = "label_news";
+
+"rewind" = "rewind";
+"play" = "play";
+"pause" = "pause";
+"fastforward" = "fastforward";
+"enlarge" = "video full screen button";
+"shrink" = "video exit full screen button";
+
+"landing" = "landing.png";
+
+"tab1" = "About Web/Mobile App Accessibility Campaign";
+"tab2" = "Seminars and Technical Workshops";
+"tab3" = "Webforall Video Channel";
+"tab4" = "Setting";
+"tab5" = "Contact Us";
+
+"tab1s" = "About Web/Mobile App Accessibility Campaign";
+"tab2s" = "Seminars and Technical Workshops";
+"tab3s" = "Webforall Video Channel";
+"tab4s" = "Setting";
+"tab5s" = "Contact Us";
+
+"tabimg1" = "nav_about";
+"tabimg2" = "nav_seminars";
+"tabimg3" = "nav_video";
+"tabimg4" = "nav_setting";
+"tabimg5" = "nav_contact";
+"tabimg1s" = "nav_about_o";
+"tabimg2s" = "nav_seminars_o";
+"tabimg3s" = "nav_video_o";
+"tabimg4s" = "nav_setting_o";
+"tabimg5s" = "nav_contact_o";
+
+"versionAlert" = "This mobile application support iOS 8.0 to 11.0. Your device may not compatible with some functions of the application.";
+"va1" = "OK";
+"va2" = "Leave App";
+
+"SeminarBanner_1" = "Seminarbanner_1";
+"SeminarBanner_2" = "Seminarbanner_2";
+"SeminarBanner_3" = "Seminarbanner_3";
+
+"iPadSI9" = "landing_ipad";
+"iPadSI10" = "landing_ipad";
+"iPadSI12" = "landing_ipad";
+
+"pageCon" = "";
+"pageCon1" = "page Control aaaaaa bbbbbbb kkkk  1111111";
+"pageCon2" = "page Control aaaaaa bbbbbbb kkkk 22222222";
+
+"s1a" = "English";
+"s1b" = "繁體中文";
+"s1c" = "簡體中文";
+"s1as" = "English - Selected";
+"s1bs" = "繁體中文 - Selected";
+"s1cs" = "簡體中文 - Selected";
+
+"s2a" = "Small font size";
+"s2b" = "Medium font size";
+"s2c" = "Large font size";
+"s2as" = "Small font size - Selected";
+"s2bs" = "Medium font size - Selected";
+"s2cs" = "Large font size - Selected";
+
+"s3on" = "Background Music On";
+"s3off" = "Background Music Off";
+"s3ons" = "Background Music On - Selected";
+"s3offs" = "Background Music Off - Selected";
+
+"s4aon" = "Ringtone On";
+"s4aoff" = "Ringtone Off";
+"s4aons" = "Ringtone On - Selected";
+"s4aoffs" = "Ringtone Off - Selected";
+"s4bon" = "Vibration On";
+"s4boff" = "Vibration Off";
+"s4bons" = "Vibration On - Selected";
+"s4boffs" = "Vibration Off - Selected";
+
+"s5on" = "Auto update On";
+"s5off" = "Auto update Off";
+"s5onS" = "Auto update On - Selected";
+"s5offS" = "Auto update Off - Selected";
+
+"autoUpdateOn" = "Start auto update";
+"autoUpdateOff" = "Stop auto update";
+
+"bgmOn" = "Turn on background music";
+"bgmOff" = "Turn off background music";
+
+"ringtoneOn" = "Switch on push notification ringtone alert";
+"ringtoneOff" = "Turn off push notification ringtone alert";
+
+"vibrateOn" = "Switch on push notification vibrate alert";
+"vibrateOff" = "Turn off push notification vibrate alert";
+
+"autoUpdateOns" = "Start auto update - Selected";
+"autoUpdateOffs" = "Stop auto update - Selected";
+
+"bgmOns" = "Turn on background music - Selected";
+"bgmOffs" = "Turn off background music - Selected";
+
+"ringtoneOns" = "Switch on push notification ringtone alert - Selected";
+"ringtoneOffs" = "Turn off push notification ringtone alert - Selected";
+
+"vibrateOns" = "Switch on push notification vibrate alert - Selected";
+"vibrateOffs" = "Turn off push notification vibrate alert - Selected";
