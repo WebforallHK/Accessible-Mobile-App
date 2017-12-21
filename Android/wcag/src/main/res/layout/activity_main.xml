@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="hk.gov.ogcio.wcag.activity.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="0dp"
+        android:layout_height="56dp"
+        android:background="@color/colorPrimary"
+        app:contentInsetEnd="0dp"
+        app:contentInsetStart="0dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/imageButtonMenu"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_marginEnd="8dp"
+                android:adjustViewBounds="true"
+                android:background="@null"
+                android:contentDescription="@string/button_menu"
+                app:srcCompat="@drawable/btn_menu" />
+
+            <TextView
+                android:id="@+id/textViewTitle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:layout_toEndOf="@+id/imageButtonBack"
+                android:layout_toStartOf="@+id/imageButtonMenu"
+                android:gravity="center"
+                android:textColor="@android:color/white"
+                android:textSize="20sp" />
+
+            <ImageButton
+                android:id="@+id/imageButtonBack"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:layout_marginStart="8dp"
+                android:adjustViewBounds="true"
+                android:background="@null"
+                android:contentDescription="@string/button_back"
+                app:srcCompat="@drawable/btn_back" />
+        </RelativeLayout>
+    </android.support.v7.widget.Toolbar>
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/viewContent"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar">
+
+        <FrameLayout
+            android:id="@+id/frameLayout"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintBottom_toTopOf="@+id/linearLayoutMenu"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <LinearLayout
+            android:id="@+id/linearLayoutMenu"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_gravity="bottom"
+            android:background="#666666"
+            android:weightSum="5"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent">
+
+            <ImageButton
+                android:id="@+id/imageButtonAbout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:contentDescription="@string/title_about_web_mobile_app_accessibility_campaign"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/footer_ico_about" />
+
+            <ImageButton
+                android:id="@+id/imageButtonSeminars"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:contentDescription="@string/title_seminars_and_technical_workshops"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/footer_ico_seminars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonVideo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:contentDescription="@string/title_webforall_video_channel"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/footer_ico_video" />
+
+            <ImageButton
+                android:id="@+id/imageButtonSettings"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:contentDescription="@string/title_settings"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/footer_ico_setting" />
+
+            <ImageButton
+                android:id="@+id/imageButtonContact"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:contentDescription="@string/title_contact_us"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/footer_ico_contact" />
+        </LinearLayout>
+    </android.support.constraint.ConstraintLayout>
+
+    <LinearLayout
+        android:id="@+id/viewMenu"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar">
+
+        <hk.gov.ogcio.wcag.widget.ScaleButton
+            android:id="@+id/button0"
+            style="@style/menuButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ico_home"
+            android:text="@string/menu_home" />
+
+        <hk.gov.ogcio.wcag.widget.ScaleButton
+            android:id="@+id/button1"
+            style="@style/menuButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ico_about"
+            android:text="@string/menu_about_web_mobile_app_accessibility_campaign" />
+
+        <hk.gov.ogcio.wcag.widget.ScaleButton
+            android:id="@+id/button2"
+            style="@style/menuButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ico_seminars"
+            android:text="@string/menu_seminars_and_technical_workshops" />
+
+        <hk.gov.ogcio.wcag.widget.ScaleButton
+            android:id="@+id/button3"
+            style="@style/menuButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ico_video"
+            android:text="@string/menu_webforall_video_channel" />
+
+        <hk.gov.ogcio.wcag.widget.ScaleButton
+            android:id="@+id/button4"
+            style="@style/menuButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ico_setting"
+            android:text="@string/menu_settings" />
+
+        <hk.gov.ogcio.wcag.widget.ScaleButton
+            android:id="@+id/button5"
+            style="@style/menuButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ico_contact"
+            android:text="@string/menu_contact_us" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

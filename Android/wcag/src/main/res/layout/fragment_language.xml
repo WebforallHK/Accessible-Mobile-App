@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioGroup
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="0dp"
+        android:divider="@drawable/linearlayout_divider"
+        android:showDividers="middle"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <hk.gov.ogcio.wcag.widget.ScaleRadioButton
+            android:id="@+id/radioButtonEnglish"
+            android:layout_width="match_parent"
+            android:layout_height="72dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="@string/settings_english" />
+
+        <hk.gov.ogcio.wcag.widget.ScaleRadioButton
+            android:id="@+id/radioButtonTraditionalChinese"
+            android:layout_width="match_parent"
+            android:layout_height="72dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="@string/settings_traditional_chinese" />
+
+        <hk.gov.ogcio.wcag.widget.ScaleRadioButton
+            android:id="@+id/radioButtonSimplifiedChinese"
+            android:layout_width="match_parent"
+            android:layout_height="72dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:text="@string/settings_simplified_chinese" />
+    </RadioGroup>
+
+    <hk.gov.ogcio.wcag.widget.ScaleButton
+        android:id="@+id/buttonConfirm"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginStart="32dp"
+        android:text="@string/button_confirm_change"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Accessible Mobile App Demo</string>
+
+    <string name="button_start">Start</string>
+
+    <string name="skip_start">Click “Skip and Start” to start up the App.</string>
+
+    <string name="text_welcome">
+        Web/Mobile App Accessibility is to make sure that the contents of websites and mobile applications are available for all, including not only persons with disabilities but also persons with specific difficulties such as the elderly and persons beset with colour-blindness, cognitive and physical issues such as dyslexia, epilepsy, etc. An accessible website or mobile application not only helps deliver messages wider across, but also improves the general usability for all users. It also helps building a caring and inclusive society. Over the years, the Government has been actively promoting web/mobile app accessibility to facilitate persons with disabilities to access online information and services and enhance their user experience.
+    </string>
+
+    <string name="about_web_or_mobile_app_accessibility_campaign">About Web/Mobile App Accessibility Campaign</string>
+    <string name="information_content">
+        The Office of the Government Chief Information Officer (OGCIO) is mounting a Web/Mobile App Accessibility Campaign and adopts a multi-pronged strategy to drive the adoption of accessible design in websites and mobile applications of both public and private sectors through Government Leadership, Fostering Awareness, Promulgating Guidelines and Tips and Nurturing Expertise and Organising Recognition Scheme.
+    </string>
+    <string name="more_information_about_the_campaign">More Information about the Campaign</string>
+    <string name="skip_and_start">Skip and Start</string>
+    <string name="not_show_the_tutorial_for_next_time">Not show the tutorial for next time</string>
+    <string name="title_welcome">Welcome</string>
+    <string name="title_seminars_and_technical_workshops">Seminars and Technical Workshops</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_more_information_about_the_campaign">More Information about the Campaign</string>
+    <string name="title_menu">Menu</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_about_web_mobile_app_accessibility_campaign">About Web/Mobile App Accessibility Campaign</string>
+    <string name="menu_seminars_and_technical_workshops">Seminars and Technical Workshops</string>
+    <string name="menu_webforall_video_channel">Webforall Video Channel</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_contact_us">Contact Us</string>
+    <string name="title_contact_us">Contact Us</string>
+    <string name="government_leadership">Government Leadership</string>
+    <string name="fostering_awareness">Fostering Awareness</string>
+    <string name="promulgating_guidelines_and_tips">Promulgating Guidelines and Tips</string>
+    <string name="nurturing_expertise">Nurturing Expertise</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_push_notification">Push Notification</string>
+    <string name="settings_background_music">Background Music</string>
+    <string name="settings_font_size">Font Size</string>
+    <string name="settings_auto_update">Auto Update</string>
+    <string name="settings_on">On</string>
+    <string name="settings_off">Off</string>
+    <string name="button_confirm_change">Confirm Change</string>
+    <string name="title_choose_a_language">Choose a language</string>
+    <string name="title_choose_font_size">Choose Font Size</string>
+    <string name="title_push_notification">Push Notification</string>
+    <string name="settings_english">English</string>
+    <string name="settings_traditional_chinese">繁體中文</string>
+    <string name="settings_simplified_chinese">简体中文</string>
+    <string name="settings_small">Small</string>
+    <string name="settings_medium">Medium</string>
+    <string name="settings_large">Large</string>
+    <string name="settings_ringtone">Ringtone</string>
+    <string name="settings_vibration">Vibration</string>
+    <string name="button_register_now">Register Now</string>
+    <string name="text_auto_update">Auto Update: %1$s</string>
+    <string name="text_past_event">Past Event</string>
+    <string name="button_register_this_seminar_now">Register This Seminar Now</string>
+    <string name="button_go_to_google_maps">Go to Map</string>
+    <string name="title_seminars_and_technical_workshop_details">Seminar and Technical Workshop Details</string>
+    <string name="button_address">Address</string>
+    <string name="title_address">Address</string>
+    <string name="title_register">Register</string>
+    <string name="text_please_choose_the_start_and_end_date_of_your_available_period">Please choose the start and end date of your available period:</string>
+    <string name="button_next">Next</string>
+    <string name="text_start_date">Start Date:</string>
+    <string name="text_end_date">End Date:</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_ok">OK</string>
+    <string name="text_you_would_like_to_register_for_the_following_seminar">You would like to register for the following seminar:</string>
+    <string name="text_mandatory_fields_are_indicated_with_a_red_asterisk">Mandatory fields are indicated with an asterisk (*).</string>
+    <string name="text_first_name">* First Name (Example: Siu Ming)</string>
+    <string name="text_last_name">* Last Name (Example: Chan)</string>
+    <string name="text_address">Address</string>
+    <string name="text_district">* District</string>
+    <string name="text_phone">* Phone (Should be an 8-digit Phone. Example: 90000000)</string>
+    <string name="button_register">Register</string>
+    <string name="title_confirmation">Confirmation</string>
+    <string name="button_confirm">Confirm</string>
+    <string name="button_change_information">Change Information</string>
+    <string name="text_please_confirm_your_information">Please confirm your information:</string>
+    <string name="title_register_success">Register Success</string>
+    <string name="button_home">Home</string>
+    <string name="text_type_1">You have been register in the following seminar:</string>
+    <string name="text_type_0">
+        Thanks for your registration. We’ll contact you directly if we have new seminar on the following date period:\n\n
+        Start Date:\n
+        %1$s\n\n
+        End Date:\n
+        %2$s
+    </string>
+    <string name="reason_first_name">Please input your first name.\n</string>
+    <string name="reason_last_name">Please input your last name.\n</string>
+    <string name="choose_a_district">Choose a District</string>
+    <string name="reason_district">Please choose the district you live.\n</string>
+    <string name="reason_phone">Please input 8 digits phone number.\n</string>
+    <string name="button_close">Close</string>
+    <string name="reason_time">Times up! Please submit your form.</string>
+    <string name="button_extend_time_limit">Extend Time Limit</string>
+    <string name="text_timer">Remain Time: %1$d mins %2$d secs</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="address">Address</string>
+    <string name="district">District</string>
+    <string name="phone">Phone</string>
+    <string name="button_menu">Menu</string>
+    <string name="button_back">Back</string>
+    <string name="reason_date">Users are not allowed to select an End Date earlier than the Start Date.</string>
+    <string name="text_news">News</string>
+    <string name="text_stop_auto_update">Would you like to stop auto update?</string>
+    <string name="text_start_auto_update">Would you like to start auto update?</string>
+    <string name="buttonnext_page">Next Page</string>
+    <string name="button_previous_page">Previous Page</string>
+    <string name="text_date">%3$d %2$s, %1$d\n%4$s</string>
+    <string name="button_next_year">Next Year</string>
+    <string name="button_last_year">Last Year</string>
+    <string name="button_next_month">Next Month</string>
+    <string name="button_last_month">Last Month</string>
+    <string name="button_next_day">Next Day</string>
+    <string name="button_last_day">Last Day</string>
+    <string name="button_reset">Reset</string>
+    <string name="title_webforall_video_channel">Webforall Video Channel</string>
+    <string name="title_about_web_mobile_app_accessibility_campaign">About Web/Mobile App Accessibility Campaign</string>
+    <string name="text_topic">Topic:</string>
+    <string name="text_date_2">Date:</string>
+    <string name="text_time">Time:</string>
+    <string name="text_venue">Venue:</string>
+    <string name="text_details">Details:</string>
+    <string name="video1_title">How to Build Web Accessibility Website / Mobile App</string>
+    <string name="video1_content">Introduce web accessibility basic concept and standard and provide practical guide on web accessibility website / mobile app development.</string>
+    <string name="video2_title">Why Web Accessibility Website / Mobile App are Necessary</string>
+    <string name="video2_content">For people with disabilities, accessible website / mobile app enable them to deal with daily needs and live a more independent life, as well as maximise their potentials in the society.</string>
+    <string name="button_pause">Pause</string>
+    <string name="button_play">Play</string>
+    <string name="button_fullscreen_mode">Fullscreen mode</string>
+    <string name="button_window_mode">Window mode</string>
+    <string name="text_new_event">New</string>
+    <string name="button_find_event">Find Event</string>
+    <string name="text_video_double_tap_to_select">Video, Double tap to select.</string>
+    <string name="text_page_indicator_1">Switch to page 1.</string>
+    <string name="text_page_indicator_2">Switch to page 2.</string>
+    <string name="text_version_alert">This mobile application support Android 4.4 to 8.0. Your device may not compatible with some functions of the application.</string>
+    <string name="button_leave_app">Leave App</string>
+    <string name="video_full_screen">Video full screen</string>
+    <string name="video_exit_full_screen">Video exit full screen</string>
+    <string name="selected"> Selected</string>
+    <string name="setting_enable_auto_update">Start auto update</string>
+    <string name="setting_disable_auto_update">Stop auto update</string>
+    <string name="setting_enable_background_music">Turn on background music</string>
+    <string name="setting_disable_background_music">Turn off background music</string>
+    <string name="do_you_want_to_close_this_application">Do you want to close this Application?</string>
+    <string name="edit">Edit</string>
+
+    <string-array name="week_day">
+        <item> </item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <string-array name="month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>Government Leadership</item>
+        <item>Fostering Awareness</item>
+        <item>Promulgating Guidelines and Tips</item>
+        <item>Nurturing Expertise</item>
+    </string-array>
+
+    <string-array name="district">
+        <item>Central and Western</item>
+        <item>Eastern</item>
+        <item>Southern</item>
+        <item>Wan Chai</item>
+        <item>Sham Shui Po</item>
+        <item>Kowloon City</item>
+        <item>Kwun Tong</item>
+        <item>Wong Tai Sin</item>
+        <item>Yau Tsim Mong</item>
+        <item>Islands</item>
+        <item>Kwai Tsing</item>
+        <item>North</item>
+        <item>Sai Kung</item>
+        <item>Sha Tin</item>
+        <item>Tai Po</item>
+        <item>Tsuen Wan</item>
+        <item>Tuen Mun</item>
+        <item>Yuen Long</item>
+    </string-array>
+</resources>

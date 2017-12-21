@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Accessible Mobile App Demo</string>
+
+    <string name="button_start">开始</string>
+
+    <string name="skip_start">按"略过及开始"启动应用程序。</string>
+
+    <string name="text_welcome">
+        无障碍网页／流动应用程式是确保网站的内容是提供给所有人，不只包括残疾人士，亦包括长者，受色盲困扰的人士，及认知和身体有问题如有读写困难、癫痫病等的人士。无障碍网页／流动应用程式，不但有利于更广泛地传递消息，也提高了对所有用户的普遍可用性。它还有助于建立一个关怀和包容性的社会。多年来，香港政府一直积极推广无障碍网页／流动应用程式，协助残疾人士浏覧网上资讯和服务，并提升他们使用的满意度。
+    </string>
+
+    <string name="about_web_or_mobile_app_accessibility_campaign">有关无障碍网页／流动应用程式运动</string>
+    <string name="information_content">
+        政府资讯科技总监办公室正进行无障碍网页／流动应用程式运动，以多管齐下策略包括以身作则积极领导、提高认知、发布指引及提示、培育专才及举办嘉许计划，推动公共及私营机构在其网站及流动应用程式采用无障碍设计。
+    </string>
+    <string name="more_information_about_the_campaign">更多有关本运动的资讯</string>
+    <string name="skip_and_start">略过及开始</string>
+    <string name="not_show_the_tutorial_for_next_time">下次不要再显示</string>
+    <string name="title_welcome">欢迎</string>
+    <string name="title_seminars_and_technical_workshops">研讨会和技术工作坊</string>
+    <string name="title_settings">设定</string>
+    <string name="title_more_information_about_the_campaign">更多有关本运动的资讯</string>
+    <string name="title_menu">菜单</string>
+    <string name="menu_home">主页</string>
+    <string name="menu_about_web_mobile_app_accessibility_campaign">有关无障碍网页／流动应用程式运动</string>
+    <string name="menu_seminars_and_technical_workshops">研讨会和技术工作坊</string>
+    <string name="menu_webforall_video_channel">Webforall 短片频道</string>
+    <string name="menu_settings">设定</string>
+    <string name="menu_contact_us">联络我们</string>
+    <string name="title_contact_us">联络我们</string>
+    <string name="government_leadership">积极领导</string>
+    <string name="fostering_awareness">提高认知</string>
+    <string name="promulgating_guidelines_and_tips">发布指引及提示</string>
+    <string name="nurturing_expertise">培育专才</string>
+    <string name="settings_language">语言</string>
+    <string name="settings_push_notification">通知</string>
+    <string name="settings_background_music">背景音乐</string>
+    <string name="settings_font_size">文字大小</string>
+    <string name="settings_auto_update">自动更新</string>
+    <string name="settings_on">开</string>
+    <string name="settings_off">关</string>
+    <string name="button_confirm_change">确定更新</string>
+    <string name="title_choose_a_language">选择语言</string>
+    <string name="title_choose_font_size">选择文字大小</string>
+    <string name="title_push_notification">通知</string>
+    <string name="settings_english">English</string>
+    <string name="settings_traditional_chinese">繁體中文</string>
+    <string name="settings_simplified_chinese">简体中文</string>
+    <string name="settings_small">小</string>
+    <string name="settings_medium">中</string>
+    <string name="settings_large">大</string>
+    <string name="settings_ringtone">铃声</string>
+    <string name="settings_vibration">振动</string>
+    <string name="button_register_now">立即登记</string>
+    <string name="text_auto_update">自动更新：%1$s</string>
+    <string name="text_past_event">昔日活动</string>
+    <string name="button_register_this_seminar_now">立即登记此研讨会</string>
+    <string name="button_go_to_google_maps">进入地图</string>
+    <string name="title_seminars_and_technical_workshop_details">研讨会和技术工作坊内容</string>
+    <string name="button_address">详细地址</string>
+    <string name="title_address">详细地址</string>
+    <string name="title_register">登记</string>
+    <string name="text_please_choose_the_start_and_end_date_of_your_available_period">请选择时段：</string>
+    <string name="button_next">下一步</string>
+    <string name="text_start_date">开始日期：</string>
+    <string name="text_end_date">结束日期：</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_ok">确定</string>
+    <string name="text_you_would_like_to_register_for_the_following_seminar">你希望登记参加以下的研讨会：</string>
+    <string name="text_mandatory_fields_are_indicated_with_a_red_asterisk">星号（*）表示的项目必须填写。</string>
+    <string name="text_first_name">* 名字（例：小明）</string>
+    <string name="text_last_name">* 姓氏（例：陈）</string>
+    <string name="text_address">地址</string>
+    <string name="text_district">* 地区</string>
+    <string name="text_phone">* 电话号码（需为8位数字，例：90000000）</string>
+    <string name="button_register">登记</string>
+    <string name="title_confirmation">确认资料</string>
+    <string name="button_confirm">确定</string>
+    <string name="button_change_information">更改资料</string>
+    <string name="text_please_confirm_your_information">请确定你的资料：</string>
+    <string name="title_register_success">成功登记</string>
+    <string name="button_home">主页</string>
+    <string name="text_type_1">你已登记参加以下的研讨会：</string>
+    <string name="text_type_0">
+        谢谢阁下登记参加我们的研讨会，如果有新的研讨会于下列时段举办，我们将联络阁下。\n\n
+        开始日期：\n
+        %1$s\n\n
+        结束日期：\n
+        %2$s
+    </string>
+    <string name="reason_first_name">请输入你的名称。\n</string>
+    <string name="reason_last_name">请输入你的姓氏。\n</string>
+    <string name="choose_a_district">选择你居住的区域</string>
+    <string name="reason_district">请选择你居住的区域。\n</string>
+    <string name="reason_phone">请输入8位数字的电话号码。\n</string>
+    <string name="button_close">关闭</string>
+    <string name="reason_time">限时已到！请提交表格。</string>
+    <string name="button_extend_time_limit">延长时限</string>
+    <string name="first_name">名字</string>
+    <string name="last_name">姓氏</string>
+    <string name="address">地址</string>
+    <string name="district">地区</string>
+    <string name="phone">电话号码</string>
+    <string name="text_timer">限时：%1$d 分 %2$d 秒</string>
+    <string name="button_menu">菜单</string>
+    <string name="button_back">返回</string>
+    <string name="reason_date">你不可以选择比开始日期早的结束日期。</string>
+    <string name="text_news">最新消息</string>
+    <string name="text_stop_auto_update">你是否希望停止自动更新？</string>
+    <string name="text_start_auto_update">你是否希望启动自动更新？</string>
+    <string name="buttonnext_page">下一页</string>
+    <string name="button_previous_page">上一页</string>
+    <string name="text_date">%1$d年%2$s%3$d日\n%4$s</string>
+    <string name="button_next_year">下一年</string>
+    <string name="button_last_year">上一年</string>
+    <string name="button_next_month">下一个月</string>
+    <string name="button_last_month">上一个月</string>
+    <string name="button_next_day">下一日</string>
+    <string name="button_last_day">上一日</string>
+    <string name="button_reset">重新填写</string>
+    <string name="title_webforall_video_channel">Webforall 短片频道</string>
+    <string name="title_about_web_mobile_app_accessibility_campaign">有关无障碍网页／流动应用程式运动</string>
+    <string name="text_topic">主题：</string>
+    <string name="text_date_2">日期：</string>
+    <string name="text_time">时间：</string>
+    <string name="text_venue">地点：</string>
+    <string name="text_details">详细资料：</string>
+    <string name="video1_title">怎样建立无障碍网页／流动应用程式</string>
+    <string name="video1_content">介绍无障碍设计的基本概念和标准，并提供实用指南，以协助开发无障碍网页／流动应用程式。</string>
+    <string name="video2_title">为何网页／流动应用程式要采用无障碍设计</string>
+    <string name="video2_content">无障碍网页／流动应用程式可以协助残疾人士在知识型社会中更独立地生活，让他们充分发挥潜能。</string>
+    <string name="button_pause">暂停</string>
+    <string name="button_play">播放</string>
+    <string name="button_fullscreen_mode">全萤幕模式</string>
+    <string name="button_window_mode">视窗模式</string>
+    <string name="text_new_event">最新活动</string>
+    <string name="button_find_event">找寻活动</string>
+    <string name="text_video_double_tap_to_select">影片，轻按两下即可选取。</string>
+    <string name="text_page_indicator_1">切换到第1页。</string>
+    <string name="text_page_indicator_2">切换到第2页。</string>
+    <string name="text_version_alert">本流动应用程式支援 Android 4.4 至 8.0，你的装置可能未能兼容本程式的部份功能。</string>
+    <string name="button_leave_app">离开</string>
+    <string name="video_full_screen">影片全屏</string>
+    <string name="video_exit_full_screen">影片离开全屏</string>
+    <string name="selected"> 已选取</string>
+    <string name="setting_enable_auto_update">开启自动更新</string>
+    <string name="setting_disable_auto_update">关闭自动更新</string>
+    <string name="setting_enable_background_music">开启背景音乐</string>
+    <string name="setting_disable_background_music">关闭背景音乐</string>
+    <string name="do_you_want_to_close_this_application">你是否要离开此应用程式？</string>
+    <string name="edit">编辑</string>
+
+    <string-array name="week_day">
+        <item> </item>
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </string-array>
+
+    <string-array name="month">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>积极领导</item>
+        <item>提高认知</item>
+        <item>发布指引及提示</item>
+        <item>培育专才</item>
+    </string-array>
+
+    <string-array name="district">
+        <item>中西区</item>
+        <item>东区</item>
+        <item>南区</item>
+        <item>湾仔区</item>
+        <item>深水埗区</item>
+        <item>九龙城区</item>
+        <item>观塘区</item>
+        <item>黄大仙区</item>
+        <item>油尖旺区</item>
+        <item>离岛区</item>
+        <item>葵青区</item>
+        <item>北区</item>
+        <item>西贡区</item>
+        <item>沙田区</item>
+        <item>大埔区</item>
+        <item>荃湾区</item>
+        <item>屯门区</item>
+        <item>元朗区</item>
+    </string-array>
+</resources>
